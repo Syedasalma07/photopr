@@ -1,0 +1,23 @@
+/* Your custom styles here */
+.hero-section {
+    background-image: url('image/flowers.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    padding: 100px 0;
+    height: 100vh;
+  }
+  
+  .section-title {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  .testimonial {
+    font-style: italic;
+  }
+  
+  .client {
+    font-weight: bold;
+  }
+  
